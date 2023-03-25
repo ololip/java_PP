@@ -2,8 +2,8 @@ package com.sda;
 
 public class Main {
     public static void main(String[] args) {
-        String Asd = "asd";
-        System.out.println(Asd);
-        if(false) System.out.println("zxc");
+        String asd = "asd";
+        System.out.println(asd);
+        if (false) System.out.println("zxc");
     }
 }
